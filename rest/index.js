@@ -13,37 +13,37 @@ app.set('view engine', 'ejs')
 let comments = [
     {
         id: uuidv4(),
-        username: 'Michael',
-        text: `Sometimes I’ll start a sentence and I don’t even know where it’s going. I just hope I find it along the way`
+        username: 'Ari setiawan',
+        text: `Aplikasi ini sangat membantu saya dalam mengelola to-do list sehari-hari. UI-nya juga mudah digunakan!`
     },
     {
         id: uuidv4(),
-        username: 'Kelly',
-        text: `I talk a lot, so I’ve learned to tune myself out`
-    },
-    {
-        
-        id: uuidv4(),
-        username: 'Kevin',
-        text: `I JUST WANT TO LIE ON THE BEACH AND EAT HOT DOGS.`
+        username: 'Dinda Rahma',
+        text: `Fitur reminder-nya benar-benar berguna untuk saya yang sering lupa. Terima kasih sudah membuat aplikasi ini!`
     },
     {
         
         id: uuidv4(),
-        username: 'Dwight',
-        text: `IDENTITY THEFT IS NOT A JOKE, JIM! MILLIONS OF FAMILIES SUFFER EVERY YEAR.`
+        username: 'Budi Santoso',
+        text: `Saran saya, mungkin bisa ditambahkan fitur sinkronisasi dengan kalender supaya lebih praktis.`
     },
     {
         
         id: uuidv4(),
-        username: 'Ryan',
-        text: `I’M SUCH A PERFECTIONIST THAT I'D KINDA RATHER NOT DO IT AT ALL THAN DO A CRAPPY VERSION.`
+        username: 'Rizky Pratama',
+        text: `Desain yang minimalis tapi fungsional, saya suka sekali. Ditunggu fitur-fitur baru lainnya!`
     },
     {
         
         id: uuidv4(),
-        username: 'Jim',
-        text: `EVERYTHING I HAVE I OWE TO THIS JOB… THIS STUPID, WONDERFUL, BORING, AMAZING JOB.`
+        username: 'Sarah Amelia',
+        text: `Cocok untuk siapa saja yang punya banyak tugas harian. Membantu saya untuk lebih terorganisir.`
+    },
+    {
+        
+        id: uuidv4(),
+        username: 'Sanjaya',
+        text: `Performanya lumayan cepat dan responsif, tapi kadang ada bug kecil saat menambahkan task baru.`
     },
 ];
 
